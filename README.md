@@ -40,8 +40,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=default" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muralimanohar9&show_icons=true&theme=default" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralimanohar9&layout=compact&theme=default" height="180" />
 </p>
 
 ---
