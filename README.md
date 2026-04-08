@@ -1,6 +1,6 @@
-# 👋 Hey, I'm **MURALI MANOHAR**
+<h1 align="center">👋 Hey, I'm <strong>MURALI MANOHAR</strong></h1>
 
-### ** MSc Artificial Intelligence Student | Aspiring AI/ML Engineer | Data Science Enthusiast **
+ <p align="center">MSc Artificial Intelligence Student | Aspiring AI/ML Engineer | Data Science Enthusiast </p>
 
 ---
 
