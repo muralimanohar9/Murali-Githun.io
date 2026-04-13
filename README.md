@@ -62,6 +62,6 @@
 
 ---
 
-align="center" ## ⭐ Thanks for visiting my profile
+                                   ## ⭐ Thanks for visiting my profile
 
-align="center" **Have a great day**
+                                            **Have a great day**
