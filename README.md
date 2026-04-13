@@ -18,12 +18,12 @@
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | [Python, Java, C++, SQL, HTML, CSS] |
-| **Machine Learning** | [Scikit-learn, Pandas, NumPy] |
-| **Deep Learning** | [TensorFlow, Keras, PyTorch] |
-| **Big Data** | [PySpark, Hadoop] |
-| **Visualization** | [Matplotlib, Seaborn, Power BI] |
-| **Tools** | [GitHub, Jupyter Notebook, VS Code] |
+| **Languages** | Python, Java, C++, SQL, HTML, CSS |
+| **Machine Learning** | Scikit-learn, Pandas, NumPy |
+| **Deep Learning** | TensorFlow, Keras, PyTorch |
+| **Big Data** | PySpark, Hadoop |
+| **Visualization** | Matplotlib, Seaborn, Power BI |
+| **Tools** | GitHub, Jupyter Notebook, VS Code |
 
 ---
 
